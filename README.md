@@ -1,4 +1,4 @@
 # Hacktoberfest2k21_Test
 
-## Please create a PR by creating a HTML file and rest must follow!
+## Please create a **PR** by creating a HTML file and rest must follow!
 ## Give stars...
